@@ -1,4 +1,5 @@
-// Create simple string comparison function
+//Create web server
+
 function compare(a, b) { return a == b; }
 
 
