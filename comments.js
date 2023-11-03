@@ -1,6 +1,6 @@
-// Create two data addition
+// Create simple string comparison function
+function compare(a, b) { return a == b; }
 
-const comment = {
-  id: 1,
-  text: 'This is a comment',
-}
+
+
+
